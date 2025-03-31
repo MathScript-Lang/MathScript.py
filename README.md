@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-<h3>⚠️ Deprecated version in Python, please use the C++ version ⚠️</h3>
+<h3>⚠️ Deprecated version in Python, please use the new version ⚠️</h3>
 </div>
 
 ---
